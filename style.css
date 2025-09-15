@@ -234,14 +234,33 @@ body {
     text-align: left;
     padding-left: 25px;
   }
+
+  .hamburger {
+    display: none; /* hidden by default on desktop */
+    flex-direction: column;
+    gap: 5px;
+  }
   
-  /* Responsive */
   @media (max-width: 768px) {
-    .tabular th, .tabular td {
-      padding: 10px 12px;
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      background-color: #9fb0e9;
+      position: absolute;
+      top: 70px;
+      right: 20px;
+      padding: 20px;
+      border-radius: 10px;
     }
-    .tabular-container {
-      padding: 10px;
+  
+    .nav-links.active {
+      display: flex;
+    }
+  
+    .hamburger {
+      display: flex;
+      cursor: pointer;
+      
     }
   }
   
