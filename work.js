@@ -1,9 +1,18 @@
-const hamburger = document.querySelector('.hamburger');
-const navLinks = document.querySelector('.nav-links');
+document.addEventListener('DOMContentLoaded', () => {
+  const hamburger = document.querySelector('.hamburger');
+  const navLinks = document.querySelector('.nav-links');
+  const toggle = document.getElementById('dark-toggle');
 
-hamburger.addEventListener('click', () => {
-  navLinks.classList.toggle('active');
-});
+  // Hamburger menu toggle
+  hamburger.addEventListener('click', () => {
+    navLinks.classList.toggle('active');
+  });
+
+    // Dark mode toggle
+    toggle.addEventListener('click', () => {
+      document.body.classList.toggle('dark-mode');
+    });
+  });
 
 const options = {
   method: 'GET',
