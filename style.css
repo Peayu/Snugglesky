@@ -104,6 +104,10 @@ body {
     background-color: #3ea0ff;
     color: #f0f0f0;
   }
+
+ body.dark-mode .tabular td {
+    color: #1e1e2f;
+  }
   
   body.dark-mode .tabular-container{
     background-color: #2e2e40;
@@ -219,7 +223,7 @@ body {
     transition: transform 0.2s, box-shadow 0.2s;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-    color: #1e1e2f;
+    
   }
   
   .tabular tbody tr:hover {
@@ -229,6 +233,7 @@ body {
   
   .tabular td, .tabular th {
     border-bottom: none;
+      
   }
   
   .text-start {
@@ -275,4 +280,5 @@ body {
   
   
   
+
 
