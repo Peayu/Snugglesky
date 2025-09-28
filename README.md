@@ -1,3 +1,6 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://YOUR_USERNAME.github.io/SnuggleSky/)
+
+
 ☁️ SnuggleSky – Your Cute Weather Companion 🌸
 
 SnuggleSky is a cozy, web-based weather app that shows real-time weather forecasts for your city or any city in the world. Think of it as your snuggly little cloud buddy that keeps you updated with the sunshine, rain, and wind, all in one adorable interface!
