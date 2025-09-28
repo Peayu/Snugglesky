@@ -1,4 +1,4 @@
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://YOUR_USERNAME.github.io/SnuggleSky/)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5448e57b-7355-438e-bef8-909c8890f13f" />[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)]([https://peayu.github.io/Snugglesky/])
 
 
 ☁️ SnuggleSky – Your Cute Weather Companion 🌸
