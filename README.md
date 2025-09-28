@@ -1,4 +1,4 @@
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)]([https://peayu.github.io/Snugglesky/])
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://peayu.github.io/Snugglesky/)
 
 
 ☁️ SnuggleSky – Your Cute Weather Companion 🌸
